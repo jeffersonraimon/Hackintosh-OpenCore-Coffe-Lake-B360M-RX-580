@@ -32,7 +32,7 @@ WiFi Card: Fenvi FV-A436CD Chipset: Broadcom BCM94360CD
 
 ```
 ## EFI Folder
- *after download my EFI, plz change SMBIOS
+ *after download my EFI, plz change SMBIOS*
 
 ![image](https://user-images.githubusercontent.com/80064475/126728749-a47bf060-b469-4f40-bfea-54fd8f55c5d5.png)
 
@@ -43,7 +43,7 @@ WiFi Card: Fenvi FV-A436CD Chipset: Broadcom BCM94360CD
 ![image](https://user-images.githubusercontent.com/80064475/126728764-27513396-384f-463a-ac81-b37aca5d85d8.png)
 
 ## USB Mapping by me
-*I used Hackintool
+*I used Hackintool*
 
 ![image](https://user-images.githubusercontent.com/80064475/126728786-cc054f9c-565a-4130-9e40-8f1bca8447bd.png)
 
