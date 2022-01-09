@@ -1,7 +1,7 @@
 # Hackintosh OpenCore | Intel Core i5-8400 | Aorus B360M Gaming 3 | AMD RX-580 8GB
 
 
-Hackintosh made in 2021 with OpenCore running macOS Big Sur and Windows 10 by @jeffersonraimon 
+Hackintosh made in 2021 with OpenCore running macOS Big Sur and Windows 11 by @jeffersonraimon 
 
 ![image](https://user-images.githubusercontent.com/80064475/126728730-f0148d1e-a083-424d-9b63-9cbfe2fe0755.png)
 
