@@ -11,7 +11,7 @@ Hackintosh made in 2021 with OpenCore running macOS Big Sur and Windows 11 by @j
 My Hardware Configuration
 
 ```
-Motherboard: Gigabyte B360 Aorus Gaming 3 (rev 1.0)
+Motherboard: Gigabyte B360m Aorus Gaming 3 (rev 1.0)
 BIOS Version: F15b
 
 Processor: Intel Core i5-8400 (6 core, 6 Threat) 2.80Ghz - 4Ghz
