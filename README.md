@@ -19,8 +19,8 @@ Processor: Intel Core i5-8400 (6 core, 6 Threat) 2.80Ghz - 4Ghz
 Ram: HyperX 16GB DDR4 
 
 SSD M.2 NVMe: Asgard AN2 250NVMe-M.2/80 250GB (macOS Big Sur)
-SSD 1: WDGreen 240Gb (macOS APFS Backups)
-SSD 2: PNY 120Gb (Windows 10)
+SSD 2: Kingston 240Gb (Windows 11)
+HDD: 320Gb APFS Backup
 
 Graphics: AMD Shapphire RX 580 8GB
 
