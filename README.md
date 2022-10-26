@@ -3,7 +3,7 @@
 
 Hackintosh update made in 2022 with OpenCore running macOS Monterey and Windows 11 by @jeffersonraimon 
 
-![image](https://user-images.githubusercontent.com/80064475/126728730-f0148d1e-a083-424d-9b63-9cbfe2fe0755.png)
+![image](https://github.com/jeffersonraimon/Hackintosh-OpenCore-Coffe-Lake-B360M-RX-580/blob/main/IMAGES/monterey.png?raw=true)
 
 
 ## Specs
