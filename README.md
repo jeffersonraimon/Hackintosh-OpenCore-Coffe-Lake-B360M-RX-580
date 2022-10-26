@@ -1,7 +1,7 @@
 # Hackintosh OpenCore | Intel Core i5-8400 | Aorus B360M Gaming 3 | AMD RX-580 8GB
 
 
-Hackintosh made in 2021 with OpenCore running macOS Big Sur and Windows 11 by @jeffersonraimon 
+Hackintosh update made in 2022 with OpenCore running macOS Monterey and Windows 11 by @jeffersonraimon 
 
 ![image](https://user-images.githubusercontent.com/80064475/126728730-f0148d1e-a083-424d-9b63-9cbfe2fe0755.png)
 
@@ -18,7 +18,7 @@ Processor: Intel Core i5-8400 (6 core, 6 Threat) 2.80Ghz - 4Ghz
 
 Ram: HyperX 16GB DDR4 
 
-SSD M.2 NVMe: Asgard AN2 250NVMe-M.2/80 250GB (macOS Big Sur)
+SSD M.2 NVMe: Asgard AN2 250NVMe-M.2/80 250GB (macOS Monterey)
 SSD 2: Kingston 240Gb (Windows 11)
 HDD: 320Gb APFS Backup
 
